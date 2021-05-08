@@ -10,11 +10,20 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
+        "themes": [{
                 "label": "Codigo Vikingo theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Codigo Vikingo theme-color-theme.json"
+            },
+            {
+                "label": "Codigo Vikingo theme (dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Codigo Vikingo theme-color-theme-dark.json"
+            },
+            {
+                "label": "Codigo Vikingo theme (light)",
+                "uiTheme": "vs",
+                "path": "./themes/Codigo Vikingo theme-color-theme-light.json"
             }
         ]
     }
