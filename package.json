@@ -1,0 +1,21 @@
+{
+    "name": "vk-theme",
+    "displayName": "vk-theme",
+    "description": "this is a viking theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Codigo Vikingo theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Codigo Vikingo theme-color-theme.json"
+            }
+        ]
+    }
+}
