@@ -2,7 +2,7 @@
     "name": "mjolnir",
     "displayName": "mjolnir",
     "description": "this is a viking theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "CdigoVikingo",
     "icon": "images/profile.png",
     "license": "MIT",
@@ -16,17 +16,17 @@
         "themes": [{
                 "label": "mjolnir theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/mjolnir theme-color-theme.json"
+                "path": "./themes/mjolnir-color-theme.json"
             },
             {
                 "label": "mjolnir theme (dark)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/mjolnir theme-color-theme-dark.json"
+                "path": "./themes/mjolnir-color-theme-dark.json"
             },
             {
                 "label": "mjolnir theme (light)",
                 "uiTheme": "vs",
-                "path": "./themes/mjolnir theme-color-theme-light.json"
+                "path": "./themes/mjolnir-color-theme-light.json"
             }
         ]
     }
