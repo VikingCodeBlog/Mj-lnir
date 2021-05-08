@@ -1,8 +1,11 @@
 {
-    "name": "vk-theme",
-    "displayName": "vk-theme",
+    "name": "mjolnir",
+    "displayName": "mjolnir",
     "description": "this is a viking theme",
     "version": "0.0.1",
+    "publisher": "CdigoVikingo",
+    "icon": "images/profile.png",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.56.0"
     },
@@ -11,19 +14,19 @@
     ],
     "contributes": {
         "themes": [{
-                "label": "Codigo Vikingo theme",
+                "label": "mjolnir theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Codigo Vikingo theme-color-theme.json"
+                "path": "./themes/mjolnir theme-color-theme.json"
             },
             {
-                "label": "Codigo Vikingo theme (dark)",
+                "label": "mjolnir theme (dark)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Codigo Vikingo theme-color-theme-dark.json"
+                "path": "./themes/mjolnir theme-color-theme-dark.json"
             },
             {
-                "label": "Codigo Vikingo theme (light)",
+                "label": "mjolnir theme (light)",
                 "uiTheme": "vs",
-                "path": "./themes/Codigo Vikingo theme-color-theme-light.json"
+                "path": "./themes/mjolnir theme-color-theme-light.json"
             }
         ]
     }
