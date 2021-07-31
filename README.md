@@ -11,6 +11,26 @@ Todos nuestros enlaces -> [https://codigovikingo.es/links/links.html](https://co
 
 ## Default
 ![default](https://codigovikingo.es/links/default.png)
+## Classic
+![Classic](https://codigovikingo.es/links/classic.png)
 
-## Dark
+## Classic Dark
 ![dark](https://codigovikingo.es/links/dark.png)
+
+# Install proyect
+## Clone
+```
+git clone https://github.com/VikingCodeBlog/Mj-lnir.git
+```
+## Install vsce
+npm install -g vsce
+
+# Publish your own versionç
+You need an Azure DevOps account.
+
+```
+vsce package
+```
+```
+vsce publish
+```

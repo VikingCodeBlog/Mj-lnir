@@ -2,7 +2,7 @@
     "name": "mjolnir",
     "displayName": "mjolnir",
     "description": "this is a viking theme",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "CdigoVikingo",
     "icon": "images/profile.png",
     "license": "MIT",
@@ -13,7 +13,13 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [{
+        "themes": [
+            {
+                "label": "mjolnir theme (night berserker)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mjolnir-color-theme-night-berserker.json"
+            },
+            {
                 "label": "mjolnir theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/mjolnir-color-theme.json"
