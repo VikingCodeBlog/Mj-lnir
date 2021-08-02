@@ -10,12 +10,12 @@ Todos nuestros enlaces -> [https://codigovikingo.es/links/links.html](https://co
 # ScreenShots
 
 ## Default
-![default](./images/default.png)
+![default](https://raw.githubusercontent.com/VikingCodeBlog/Mj-lnir/main/images/default.png)
 ## Classic
-![Classic](./images/classic.png)
+![Classic](https://raw.githubusercontent.com/VikingCodeBlog/Mj-lnir/main/images/classic.png)
 
 ## Classic Dark
-![dark](./images/dark.png)
+![dark](https://raw.githubusercontent.com/VikingCodeBlog/Mj-lnir/main/images/dark.png)
 
 # Install proyect
 ## Clone
