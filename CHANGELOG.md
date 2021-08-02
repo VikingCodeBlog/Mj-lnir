@@ -13,3 +13,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release
 - initial 4 themes for Mijolnir
+
+## 0.0.7
+- Custom readme
