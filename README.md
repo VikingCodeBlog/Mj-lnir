@@ -10,12 +10,12 @@ Todos nuestros enlaces -> [https://codigovikingo.es/links/links.html](https://co
 # ScreenShots
 
 ## Default
-![default](https://codigovikingo.es/links/default.png)
+![default](./images/default.png)
 ## Classic
-![Classic](https://codigovikingo.es/links/classic.png)
+![Classic](./classic.png)
 
 ## Classic Dark
-![dark](https://codigovikingo.es/links/dark.png)
+![dark](./dark.png)
 
 # Install proyect
 ## Clone
