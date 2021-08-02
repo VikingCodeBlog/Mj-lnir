@@ -24,7 +24,7 @@ Todos nuestros enlaces -> [https://codigovikingo.es/links/links.html](https://co
 
 # ScreenShots
 
-## Default
+## Default (Night Berserker)
 ![default](https://raw.githubusercontent.com/VikingCodeBlog/Mj-lnir/main/images/default.png)
 ## Classic
 ![Classic](https://raw.githubusercontent.com/VikingCodeBlog/Mj-lnir/main/images/classic.png)
@@ -40,7 +40,7 @@ git clone https://github.com/VikingCodeBlog/Mj-lnir.git
 ## Install vsce
 npm install -g vsce
 
-# Publish your own versionç
+# Publish your own version
 You need an Azure DevOps account.
 
 ```
