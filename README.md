@@ -12,10 +12,10 @@ Todos nuestros enlaces -> [https://codigovikingo.es/links/links.html](https://co
 ## Default
 ![default](./images/default.png)
 ## Classic
-![Classic](./classic.png)
+![Classic](./images/classic.png)
 
 ## Classic Dark
-![dark](./dark.png)
+![dark](./images/dark.png)
 
 # Install proyect
 ## Clone
