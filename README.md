@@ -1,5 +1,5 @@
 
-[![current](https://img.shields.io/badge/Current-0.0.7-<COLOR>.svg)](https://github.com/VikingCodeBlog/Mj-lnir/blob/main/package.json)
+[![current](https://img.shields.io/badge/Current-0.0.8-<COLOR>.svg)](https://github.com/VikingCodeBlog/Mj-lnir/blob/main/package.json)
 
 [![follow](https://img.shields.io/badge/Follow-@vikingcodeblog-orange.svg)](https://www.instagram.com/vikingcodeblog/)
 

@@ -68,7 +68,7 @@
         "searchEditor.findMatchBorder": "#ffcb5242",
         "searchEditor.textInputBorder": "#ffcb5242",
         "editor.hoverHighlightBackground": "#ffcb5242",
-        "editorWhitespace.foreground": "#13161f",
+        "editorWhitespace.foreground": "#262b3a",
         "peekView.border": "#f0c40d",
         "peekViewEditor.background": "#090b10",
         "peekViewEditorGutter.background": "#090b10",
